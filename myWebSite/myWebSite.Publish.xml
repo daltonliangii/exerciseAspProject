@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\Development\WebSites\myTestSite" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="testProject" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="mySite" publishMethod="FileSystem" replaceMatchingFiles="True" userName="leo" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAT+EiaZtUtESksfFO3AnBdAAAAAACAAAAAAAQZgAAAAEAACAAAABOkrTfsSxCCB92EN0QXYqdeTYjjTKbxltQ5uPqu45CwQAAAAAOgAAAAAIAACAAAACL+fUR7pkgOsK8fggnHPOVPQLTMQkmIGIBJHo9Brot9iAAAACSwM//XC0QQ0fqAUNe9Mc04VVgs6MQYhV6KnYa8NfizkAAAAD3B48pPYVG6Tecqho1RNLIaCGXMf3k08JaiWDvGKmoQ5JD+wxq8Ag8wukcfr0LRmn+aJW4FTrC41fcoDaETIS+" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="10/16/2012 23:35:41" />
+    <file relUrl="Site.Master" publishTime="10/16/2012 21:53:54" />
+    <file relUrl="Account/Web.config" publishTime="10/14/2012 14:53:24" />
+    <file relUrl="bin/myWebSite.pdb" publishTime="10/16/2012 23:35:38" />
+    <file relUrl="Account/Register.aspx" publishTime="10/14/2012 14:53:24" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="10/14/2012 14:53:24" />
+    <file relUrl="Account/Login.aspx" publishTime="10/14/2012 14:53:24" />
+    <file relUrl="Styles/Site.css" publishTime="10/16/2012 21:41:12" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="10/14/2012 14:53:24" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="10/14/2012 14:53:24" />
+    <file relUrl="bin/myWebSite.dll" publishTime="10/16/2012 23:35:38" />
+    <file relUrl="Global.asax" publishTime="10/14/2012 14:53:24" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="10/14/2012 14:53:24" />
+    <file relUrl="About.aspx" publishTime="10/14/2012 14:53:24" />
+    <file relUrl="Default.aspx" publishTime="10/16/2012 23:26:47" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="10/14/2012 14:53:24" />
+  </publishProfile>
+</publishData>
