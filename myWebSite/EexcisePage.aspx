@@ -82,7 +82,7 @@
     </script>
 </head>
 <body>
-    <form id="form1" runat="server">
+    <form id="form1" runat="server" >
     <div style="height: 81px; font-weight: bold; font-size: large; background-color: #008080; clip: rect(auto, auto, auto, auto);">
         Head</div>
     <div style="height: 500px" class="style1">
@@ -97,7 +97,7 @@
                     <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
                 </td>
                 <td class="style8" rowspan="4">
-                    <asp:Button ID="Button1" runat="server" onclick="Button1_Click" Text="Button" />
+                    <asp:Button ID="Button1" runat="server"  Text="Button" PostBackUrl ="~/resultPage.aspx" />
                 </td>
                 <td class="style3" rowspan="4">
                 </td>

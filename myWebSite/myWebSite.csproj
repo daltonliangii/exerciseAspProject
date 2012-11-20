@@ -57,6 +57,7 @@
     <Content Include="Account\Register.aspx" />
     <Content Include="EexcisePage.aspx" />
     <Content Include="HyperLinker.aspx" />
+    <Content Include="resultPage.aspx" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
@@ -132,6 +133,13 @@
       <DependentUpon>HyperLinker.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="resultPage.aspx.cs">
+      <DependentUpon>resultPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="resultPage.aspx.designer.cs">
+      <DependentUpon>resultPage.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
