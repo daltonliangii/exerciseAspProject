@@ -82,7 +82,7 @@
     </script>
 </head>
 <body>
-    <form id="form1" runat="server" >
+    <form id="form1" runat="server" action="resultPage.aspx"  >
     <div style="height: 81px; font-weight: bold; font-size: large; background-color: #008080; clip: rect(auto, auto, auto, auto);">
         Head</div>
     <div style="height: 500px" class="style1">
@@ -127,7 +127,7 @@
                 <td class="style5">
                     <input id="Reset2" type="reset" value="reset" /></td>
                 <td class="style7">
-                    <input id="Submit2" type="submit" value="submit" /></td>
+                    <input id="Submit2" type="submit" value="submit"/></td>
             </tr>
         </table>
     </div>
