@@ -11,9 +11,15 @@ namespace myWebSite
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            string tt = Request.Form["TextBox1"] + " - "  + Request.Form["TextBox2"];
-            Label1.Text = tt;
-            Response.Write(tt);
+            //string tt = Request.Form["TextBox3"] + " - " + Request.Form["TextBox4"];
+            //Label2.Text = tt;
+            //Response.Write(tt);
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            string tt = Request.Form["TextBox3"] + " - " + Request.Form["TextBox4"];
+            Label2.Text = tt;
         }
 
 
