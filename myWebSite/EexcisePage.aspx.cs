@@ -25,7 +25,7 @@ namespace myWebSite
         {
             //string tt = Request.Form["TextBox3"] + " - " + Request.Form["TextBox4"];
             string url;
-            url = "eDbLineInfo.aspx?PageID=" + PageID.Text + "&Line=" + Line.Text + "&Model=" + Model.Text + "&ProjectID=" + ProjectID.Text;
+            url = "eDbOtherInfo.aspx?PageID=" + PageID.Text + "&Line=" + Line.Text + "&Model=" + Model.Text + "&ProjectID=" + ProjectID.Text;
             Response.Redirect(url);
             //Label2.Text = tt;
         }
@@ -38,7 +38,7 @@ namespace myWebSite
         protected void Button1_Click1(object sender, EventArgs e)
         {
             string url;
-            url = "eDbLineInfo.aspx?PageID=" + PageID.Text + "&Line=" + Line.Text + "&Model=" + Model.Text + "&ProjectID=" + ProjectID.Text;
+            url = "eDbOtherInfo.aspx?PageID=" + PageID.Text + "&Line=" + Line.Text + "&Model=" + Model.Text + "&ProjectID=" + ProjectID.Text;
             Response.Redirect(url);
 
         }

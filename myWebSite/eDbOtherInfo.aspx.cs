@@ -11,7 +11,7 @@ using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
 using DBUtility;
 
-public partial class eDbLineInfo : System.Web.UI.Page// GeneralFunc.GeneralFunc
+public partial class eDbOtherInfo : System.Web.UI.Page// GeneralFunc.GeneralFunc
 {
     public string strRefresh = "";
     private int iRefreshInv = 0;
